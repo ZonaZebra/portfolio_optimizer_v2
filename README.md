@@ -44,9 +44,9 @@ Here are the steps:
 
   `export ALPHA_VANTAGE_API_KEY=<your_api_key>`
 
-- Run the portfolio-optimizer-algo.py script using
+- Run the main.py script using
 
-  `python3 portfolio-optimizer-algo.py`
+  `python3 main.py`
 
 ## Conclusion
 
