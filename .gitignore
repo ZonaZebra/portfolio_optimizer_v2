@@ -1,0 +1,9 @@
+# Python .gitignore
+# Created by https://www.gitignore.io/api/python
+/venv
+/__pycache__
+
+# Byte-compiled / optimized / DLL files
+references.txt
+
+
